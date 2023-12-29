@@ -1,6 +1,6 @@
 # Ex:09 JavaScript
-# Name: SUNIL KUMAR T
-# Reg.No: 212223240164
+# Name: TAMILARASAN K S.
+# Reg.No: 212223100056
 # PROGRAM-1:
 # AIM:
 To create a form with java script code to calculate electricity bill.
